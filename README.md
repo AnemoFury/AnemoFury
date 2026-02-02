@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Hi%20there,%20I'm%20Gaurav%20Paul%20👋&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b3137&height=250&section=header&text=Hi%20there,%20I'm%20Gaurav%20Paul%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20|%20AI%20&%20ML%20Engineer&descSize=22&descAlignY=75" width="100%" />
 </p>
 
 <p align="center">
@@ -11,12 +11,12 @@
 ---
 
 ### 🏛️ The Bridge: Business logic 🤝 Technical Excellence
-I am a **BCA Data Science** student with a background in **BBA**. I don't just write code; I build products that solve business problems. Currently leveraging my **M3 Silicon** to build high-performance systems and native applications.
+I am a **BCA Data Science, AI & ML** student at **Techno India University** with a background in **BBA**. I specialize in building data-driven systems that bridge the gap between business ROI and complex engineering.
 
-- 🦀 **Systems:** Mastering **Rust** and **Go** for high-concurrency backends.
-- 🍎 **Native:** Building fluid, performant iOS experiences with **Swift/SwiftUI**.
-- 📊 **Data:** Specialized in transforming complex datasets into actionable insights.
-- 🎯 **Goal:** Building "Side Kicks" (apps) that simplify daily life through automation and AI.
+- 🤖 **Intelligence:** Building predictive models and AI pipelines.
+- 🦀 **Systems:** Developing high-performance backends using **Rust** and **Go**.
+- 🍎 **Native:** Engineering fluid iOS experiences with **Swift/SwiftUI** on M3 Silicon.
+- 🎯 **Philosophy:** Using data as the foundation to build high-utility "Side Kick" applications.
 
 ---
 
@@ -24,15 +24,13 @@ I am a **BCA Data Science** student with a background in **BBA**. I don't just w
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,go,rust,py,ts,docker,aws,postgres,mongodb,redis,git,linux,postman,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=py,pycharm,anaconda,go,rust,swift,apple,docker,aws,postgres,mongodb,redis,git,linux,postman,vscode" />
   </a>
 </p>
 
 ---
 
-### 📊 Performance & Consistency
-*“Consistency beats intensity.” Here is my live engineering activity:*
-
+### 📊 Performance & Activity Heatmap
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnemoFury&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" width="100%" />
 </p>
@@ -42,25 +40,35 @@ I am a **BCA Data Science** student with a background in **BBA**. I don't just w
   <img src="https://leetcode-stats-api.herokuapp.com/AnemoFury" alt="LeetCode Stats" width="45%" />
 </p>
 
----
-
-### 🏆 Key Milestones
-- 🌾 **Smart India Hackathon Finalist:** Designed a predictive AI model for agricultural yield (Data Science focus).
-- 🏥 **Health-Sync:** Lead architect for a distributed medical data sync system using **Go**.
-- 🚀 **Next Milestone:** Launching my first Swift utility app on the App Store.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnemoFury&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" width="100%" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+### 🏆 Engineering Milestones
+| Project | Role | Description |
+| :--- | :--- | :--- |
+| **Agro-Predict (SIH)** | AI Developer | **National Finalist**. Built ML models for predictive crop yield analytics. |
+| **Health-Sync** | Backend Lead | Designed a Go-based distributed system for medical data synchronization. |
+| **Swift Utility** | Creator | Developing native macOS/iOS automation tools optimized for Apple Silicon. |
+
+---
+
+### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/gaurav-paul-678586246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/heygaurav77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://www.buymeacoffee.com/AnemoFury">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+  </a>
 </p>
 
-<p align="right">
-  <i>"Turn your MacBook into a money-printing machine through code."</i>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
