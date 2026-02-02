@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Miko 👋</h1>
 <p align="center">
-  <strong>Computer Science Student | Aspiring Software Developer</strong><br/>
+  <strong> Aspiring Software Developer</strong><br/>
   Techno India University
 </p>
 
@@ -12,10 +12,6 @@
 
 ---
 
-### 👨‍💻 Professional Summary
-Computer Science undergraduate with hands-on experience in building scalable software projects. Focused on writing clean, efficient code and documenting development processes. Actively exploring backend systems, containerization, and competitive problem-solving.
-
----
 
 ### 🚀 GitHub Statistics
 <p align="center">
@@ -53,8 +49,6 @@ Computer Science undergraduate with hands-on experience in building scalable sof
   A high-performance URL shortening service built with Go and Redis.
 - **[Social-Media-Downloader](https://github.com/YOUR_USERNAME/Social-Media-Downloader)**  
   Automation tool to fetch media content across platforms using Python.
-- **[Docker-Stuff](https://github.com/YOUR_USERNAME/Docker-stuff)**  
-  A collection of production-ready Dockerfiles and orchestration experiments.
 
 ---
 
