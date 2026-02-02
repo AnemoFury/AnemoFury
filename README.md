@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Gaurav%20Paul&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Upcoming%20Software%20Development%20Engineer&descSize=25&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Gaurav%20Paul&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20Student%20|%20Aspiring%20Software%20Engineer&descSize=22&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
@@ -10,42 +10,42 @@
 
 ---
 
-### 💻 Engineering Profile
-I am a Software Developer at **Techno India University** specializing in high-performance backends and distributed systems. I focus on writing clean, maintainable code in **Go** and **Rust**.
+### 🎓 Professional Profile
+I am a **Bachelor of Data Science** student at **Techno India University**. I bridge the gap between Data Analysis and Software Engineering by building high-performance backends and data-driven applications.
 
-- 🔭 **Current Focus:** Microservices Architecture & Low-level System Design.
-- ⚡ **SDE Preparation:** Active on LeetCode focusing on Hard/Medium DP and Graph problems.
-- ⚙️ **Tech Stack:** Specialized in Cloud-Native tools (Docker, AWS) and Scalable Databases.
+- 🔭 **Current Focus:** Scalable Distributed Systems and Machine Learning Pipelines.
+- ⚡ **Competitive Programming:** Solving complex Data Structures and Algorithms on LeetCode.
+- 🦀 **Backend Engineering:** Developing low-latency services using **Go** and **Rust**.
+- 📊 **Data Science:** Extracting insights and building predictive models (SIH Finalist).
 
 ---
 
-### 📊 Competitive Programming & Activity
+### 📊 Performance & Activity
 
-#### 🟧 LeetCode Statistics
-<p align="center">
-  <!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
-  <img src="https://leetcode-stats-api.herokuapp.com/AnemoFury" alt="LeetCode Stats" />
-</p>
-
-#### 📈 GitHub Activity Heat Map
+#### 📈 GitHub Contribution Heat Map
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnemoFury&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" width="100%" />
 </p>
 
+#### 🟧 LeetCode Progress
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/AnemoFury" alt="LeetCode Stats" />
+</p>
+
 ---
 
-### 🛠 Technical Proficiency
+### 🛠 Technical Toolbox
 
-#### 🟦 Programming Languages
+#### 🟦 Programming & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### ⚙️ Infrastructure & Databases
+#### ⚙️ Engineering & Infrastructure
 ![Docker](https://img.shields.io/badge/docker-%230d66ad.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -58,12 +58,12 @@ I am a Software Developer at **Techno India University** specializing in high-pe
 
 ---
 
-### 🏆 Engineering Achievements
-| Event | Project | Outcome |
+### 🏆 Engineering Milestones
+| Achievement | Project | Description |
 | :--- | :--- | :--- |
-| **Smart India Hackathon** | Agro-Predict | **Top 10 National Finalist** |
-| **Hack-TIU 2024** | Health-Sync | Backend Lead (Go/Docker) |
-| **Global Game Jam** | Neon-Runner | Rust Physics Engine Developer |
+| **Smart India Hackathon** | Agro-Predict | **National Finalist** (Data Science / ML model for Crop Prediction) |
+| **Hack-TIU 2024** | Health-Sync | Lead Backend Developer using Go and Docker |
+| **Global Game Jam** | Neon-Runner | Implemented Physics Logic using Rust and Bevy |
 
 ---
 
