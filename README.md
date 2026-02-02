@@ -1,73 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Gaurav%20Paul&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20Student%20" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=200&section=header&text=Gaurav%20Paul&fontSize=70&fontColor=ffffff&desc=Product%20Engineer%20|%20Data%20Science%20&descSize=25&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnemoFury&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
-  <a href="https://leetcode.com/AnemoFury"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode" /></a>
-  <img src="https://img.shields.io/github/stars/AnemoFury?style=flat-square&color=blue&label=TOTAL+STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=AnemoFury&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/badge/LeetCode-AnemoFury-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/AnemoFury?style=flat-square&color=blue&label=CONTRIBUTIONS" />
 </p>
 
 ---
 
-### 🎓 Professional Profile
-I am a **Bachelor of Data Science** student at **Techno India University**. I bridge the gap between Data Analysis and Software Engineering by building high-performance backends and data-driven applications.
+### 💡 About Me
+I am a **BCA Data Science** student (Techno India University) with a background in **Business Administration (BBA)**. This unique combination allows me to build technical solutions with a strong focus on business ROI and data-driven decision-making.
 
-- 🔭 **Current Focus:** Scalable Distributed Systems and Machine Learning Pipelines.
-- ⚡ **Competitive Programming:** Solving complex Data Structures and Algorithms on LeetCode.
-- 🦀 **Backend Engineering:** Developing low-latency services using **Go** and **Rust**.
-- 📊 **Data Science:** Extracting insights and building predictive models (SIH Finalist).
+- 🛠 **Currently Building:** High-performance iOS applications and Go-based backends.
+- 📊 **Data Science:** Specialized in predictive analytics and structured data processing.
+- 🎯 **Goal:** Transitioning into a Full-Stack SDE role with a focus on Apple Ecosystem & Data Systems.
 
 ---
 
-### 📊 Performance & Activity
-
-#### 📈 GitHub Contribution Heat Map
+### 📈 Technical Activity & Performance
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnemoFury&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" width="100%" />
 </p>
 
-#### 🟧 LeetCode Progress
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/AnemoFury" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnemoFury&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://leetcode-stats-api.herokuapp.com/AnemoFury" alt="LeetCode Stats" width="45%" />
 </p>
 
 ---
 
-### 🛠 Technical Toolbox
+### 🛠 Tech Stack
 
-#### 🟦 Programming & Data Science
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### ⚙️ Engineering & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230d66ad.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🚀 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnemoFury&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=9aa5ce" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnemoFury&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce" width="45%" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **App Dev** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white) |
+| **Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Data Science** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
 ---
 
 ### 🏆 Engineering Milestones
-| Achievement | Project | Description |
-| :--- | :--- | :--- |
-| **Smart India Hackathon** | Agro-Predict | **National Finalist** (Data Science / ML model for Crop Prediction) |
-| **Hack-TIU 2024** | Health-Sync | Lead Backend Developer using Go and Docker |
-| **Global Game Jam** | Neon-Runner | Implemented Physics Logic using Rust and Bevy |
+- **Smart India Hackathon Finalist:** Developed an ML-based predictive model for agricultural yield.
+- **Health-Sync:** Built a scalable backend using Go to handle medical data synchronization.
+- **Swift Utility (In Progress):** Leveraging M3 Silicon to build native high-performance iOS tools.
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/gaurav-paul-678586246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/heygaurav77"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
