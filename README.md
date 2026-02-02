@@ -1,15 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miko (AnemoFury)</h1>
-<h3 align="center">Aspiring Software Developer from Techno India University 🎓</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnemoFury&label=Profile%20views&color=0e75b6&style=flat" alt="AnemoFury" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnemoFury&theme=tokyonight&column=7&no-bg=true" alt="trophies" />
-</p>
-
----
 
 ### 🔭 I’m currently working on:
 - 🛠 Building high-performance services using **Go** and **Rust**.
