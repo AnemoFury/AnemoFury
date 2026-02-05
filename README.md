@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/LeetCode-AnemoFury-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
 </p>
 
----
-
-### 🏛️ The Bridge: Business logic 🤝 Technical Excellence
-I am a **BCA Data Science, AI & ML** student at **Techno India University** with a background in **BBA**. I specialize in building data-driven systems that bridge the gap between business ROI and complex engineering.
 
 - 🤖 **Intelligence:** Building predictive models and AI pipelines.
 - 🦀 **Systems:** Developing high-performance backends using **Rust** and **Go**.
