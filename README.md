@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pycharm,anaconda,go,rust,swift,apple,docker,aws,postgres,mongodb,redis,git,linux,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,pycharm,anaconda,go, js, docker, kubernetics,rust,swift,apple,docker,aws,postgres,mongodb,redis,git,linux,postman,vscode" />
   </a>
 </p>
 
