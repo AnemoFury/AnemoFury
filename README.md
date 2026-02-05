@@ -11,7 +11,7 @@
 
 - 🤖 **Intelligence:** Building predictive models and AI pipelines.
 - 🦀 **Systems:** Developing high-performance backends using **Rust** and **Go**.
-- 🍎 **Native:** Engineering fluid iOS experiences with **Swift/SwiftUI** on M3 Silicon.
+- 🍎 **Native:** Engineering fluid iOS experiences with **Swift/SwiftUI** 
 - 🎯 **Philosophy:** Using data as the foundation to build high-utility "Side Kick" applications.
 
 ---
