@@ -15,29 +15,6 @@
   <img src="https://img.shields.io/badge/LeetCode-AnemoFury-FFA116?style=flat-square&logo=LeetCode&logoColor=white" />
 </p>
 
-<br/>
-
-### 📊 Engineering Analytics
-
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnemoFury&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" width="100%" />
-</p>
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AnemoFury&show_icons=true&theme=tokyonight&hide_border=true&title_color=3399FF&text_color=FFFFFF&icon_color=3399FF" width="48%" />
-  <!-- Top Languages Card (Replacing the broken LeetCode card) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnemoFury&layout=compact&theme=tokyonight&hide_border=true&title_color=3399FF&text_color=FFFFFF" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnemoFury&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" width="100%" />
-</p>
-
-<br/>
-
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
@@ -55,6 +32,31 @@
 | **Swift Utility** | Swift, AppKit, Combine | Native macOS automation toolset optimized for Apple Silicon. |
 
 <br/>
+<br/>
+
+### 📊 Engineering Analytics
+
+
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AnemoFury&show_icons=true&theme=tokyonight&hide_border=true&title_color=3399FF&text_color=FFFFFF&icon_color=3399FF" width="48%" />
+  <!-- Top Languages Card (Replacing the broken LeetCode card) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnemoFury&layout=compact&theme=tokyonight&hide_border=true&title_color=3399FF&text_color=FFFFFF" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnemoFury&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" width="100%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnemoFury&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" width="100%" />
+</p>
+<br/>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-paul-678586246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
