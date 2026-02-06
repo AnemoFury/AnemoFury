@@ -38,17 +38,6 @@
 </p>
 
 ---
-📊 Performance & Activity Heatmap
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnemoFury&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnemoFury&show_icons=true&theme=tokyonight&hide_border=true&title_color=3399FF" width="48%" />
-  <img src="https://leetcode-stats-api.herokuapp.com/AnemoFury" alt="LeetCode Stats" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnemoFury&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" width="100%" />
-</p>
 
 <!-- GITHUB 3D CONTRIBUTION GRID (This is the 'Stunning' part) -->
 ### 📊 Engineering Analytics
@@ -63,6 +52,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnemoFury&layout=compact&theme=tokyonight&hide_border=true&title_color=3399FF&text_color=FFFFFF" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnemoFury&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" width="100%" />
+</p>
+📊 Performance & Activity Heatmap
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnemoFury&theme=tokyonight&bg_color=0d1117&hide_border=true&border_radius=10" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnemoFury&show_icons=true&theme=tokyonight&hide_border=true&title_color=3399FF" width="48%" />
+  <img src="https://leetcode-stats-api.herokuapp.com/AnemoFury" alt="LeetCode Stats" width="45%" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnemoFury&theme=tokyonight&hide_border=true&stroke=3399FF&ring=3399FF&fire=3399FF" width="100%" />
 </p>
