@@ -1,6 +1,7 @@
-
+<p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b3137&height=280&section=header&text=Hi%20there,%20I'm%20MiKO%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20|%20AI%2FML&descSize=18&descPadding=30"width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b3137&height=280&section=header&text=Hi%20there,%20I'm%20MiKO%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20|%20AI%2FML&descSize=18&descPadding=30"
+    width="100%"
   />
 </p>
 
