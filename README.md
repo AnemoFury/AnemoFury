@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b3137&height=280&section=header&text=Hi%20there,%20I'm%20MiKO%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Systems%20Engineer%20|%20AI%20Architect&descSize=18&descPadding=30" width="100%" />
 </p>
 
-<!-- DYNAMIC SUB-HEADER -->
+<!-- DYNAMIC SUB-HEADER
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Building+Scalable+AI+Pipelines;Systems+Engineer+in+Rust+and+Go;Native+iOS+with+SwiftUI;Optimizing+Low-Level+Performance" alt="Typing SVG" />
