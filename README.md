@@ -1,7 +1,8 @@
 <!-- HEADER: Cinematic Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b3137&height=280&section=header&text=Hi%20there,%20I'm%20MiKO%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20|%20AI%20Architect&descSize=18&descPadding=30" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b3137&height=280&section=header&text=Hi%20there,%20I%27m%20Gaurav%20Paul%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Architect&descSize=18&descPadding=30" width="100%" />
 </p>
+
 
 <!-- DYNAMIC SUB-HEADER
 <p align="center">
